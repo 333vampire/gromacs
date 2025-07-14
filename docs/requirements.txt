@@ -11,3 +11,4 @@ sphinx-copybutton
 sphinx_inline_tabs
 sphinxcontrib-autoprogram
 sphinxcontrib-plantuml>=0.14
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
